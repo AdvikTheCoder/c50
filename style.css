@@ -1,0 +1,24 @@
+
+            h1 {
+                color: brown;
+            }
+
+            * {
+                border: solid;
+            }
+.header {
+background-color: blueviolet;
+display:flex;
+justify-content:  space-between;
+
+}
+.all{
+    display:flex;
+    flex-wrap: wrap;
+}
+.sm{
+    display:flex;
+    justify-content:  flex-end;
+}
+
+    
